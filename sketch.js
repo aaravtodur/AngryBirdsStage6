@@ -1,4 +1,20 @@
-const Engine = Matter.Engine;
+ var string="this is the string"
+ console.log(string)
+ var number=7
+ console.log(number)
+ var bool=true
+ console.log(bool)
+ var obj;
+ console.log(obj)
+ obj=null
+ console.log(obj)
+ 
+ 
+ 
+ 
+ 
+ 
+ const Engine = Matter.Engine;
 const World= Matter.World;
 const Bodies = Matter.Bodies;
 const Constraint = Matter.Constraint;
